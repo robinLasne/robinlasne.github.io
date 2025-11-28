@@ -2,6 +2,10 @@ h1{
 	color: white;
 }
 
+sup {
+	line-height:0; vertical-align:text-top;
+}
+
 .blanc{
 	color: white;
 }
@@ -11,7 +15,7 @@ h1{
 }
 
 .jaune{
-	color: yellow;
+	color: #ffff70;
 }
 
 .rose{
